@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6v0547/GA/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6v0547_GA_000-0001a, ed: GA, 'n': 0001a, source_xml_id: GA081.0084.0001a}
   - {type: line-break, offset: 0, content: '', id: KR6v0547_GA_000-0001a01, ed: GA, 'n': 0001a01}
   - {type: 其他, offset: 0, content: 卷首, id: KR6v0547_GA_000-mulu-1, level: '1'}
@@ -1921,6 +1921,5 @@ markers:
   - {type: line-break, offset: 5155, content: '', id: KR6v0547_GA_000-0070a09, ed: GA, 'n': 0070a09}
   - {type: page-break, offset: 5155, content: '', id: KR6v0547_GA_000-0071a, ed: GA, 'n': 0071a, source_xml_id: GA081.0084.0071a}
   - {type: line-break, offset: 5155, content: '', id: KR6v0547_GA_000-0071a01, ed: GA, 'n': 0071a01}
-  body: []
   back: []
-hash: sha256:808ea22786abb5d40291fd12f5b1dcc5a6fe2907073a2e54dc9a694610d38ab5
+hash: sha256:a3f4129699341f851773fe70f4ad699750ea73a9ea07ec729ca84be4ca1d7b22
